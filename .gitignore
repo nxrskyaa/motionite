@@ -1,0 +1,14 @@
+node_modules/
+examples/node_modules
+out/
+examples/out/
+*.mp4
+*.mov
+*.webm
+*.wav
+.DS_Store
+.remotion/
+dist/
+build/
+*.log
+.env
